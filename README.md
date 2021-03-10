@@ -5,7 +5,7 @@ A highly accurate pseudo-spectral DNS solver for 2 dimensional incompressible fl
 1. Download all the modules in a working directory.
 2. FluiDNS.py is the driver script. Set all required parameters and specifications with save directory for outputs.
 3. Check for all dependencies before running simulation.
-4. pyrun.sh is the shell file for running simulations on individual PC as well as clusters.
+4. For windows, run it with 'python FluiDNS.py'
 
 # Dependencies
 1. Numpy
